@@ -1,6 +1,10 @@
 {
-  [
+  "con": [
 "sudo rm -rf",
-":(){:|:&};:"
+":(){:|:&};:",
+"sudo rm rf /",
+"mov / /dev/null",
+"sudo rm /bin/bash",
+"--no-preserve-root"
   ]
 }
